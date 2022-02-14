@@ -1,0 +1,33 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.container{
+  width: 50vw;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 30px;
+}
+
+p {
+  font-size: 20px;
+  color: rgb(151, 50, 50);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 3px;
+}
+
+.button {
+  background-color: rgb(73, 73, 202);
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+
+.search {
+  background-color: rgb(243, 193, 221);
+  color: white;
+  border: 1px solid rgb(88, 43, 43);
+  margin-bottom: 25px ;
+}
